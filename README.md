@@ -1,6 +1,6 @@
 # Optical-flow-and-pyramids
 
-##methods:
+## methods:
 
 1. Lucas kanade - this function consume two consecutive images, window size
 and step size and return the optical flow between the two puctures
